@@ -1,4 +1,4 @@
-# Yuzy's Algorithms Collection
+# Yuzy's Algorithms Collection v0.4.0
 A collection of my algorithm implementations for learning and reference. Learned and written personally. This is sort of a journey showcasing my improvement in Python.
 Also— these algorithms are libraries and are reusable.
 
