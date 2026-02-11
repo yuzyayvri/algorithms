@@ -10,8 +10,8 @@ Note: There is more information about the algorithms in their docstrings, so che
 - **Selection Sort** - A very simple sorting algorithm. Sorts by finding the minimum element and swaps it with the current one.
 
 ### Searching
-- **Linear Search** - A really, really simple searching algorithm. Sorts by looping through an array and checking if the element matches the target.
-- **Binary Search** - An efficient and easy searching algorithm. Sorts by cutting the search space in the array in half until it finds the target.
+- **Linear Search** - A really, really simple searching algorithm. Searches by looping through an array and checking if the element matches the target.
+- **Binary Search** - An efficient and easy searching algorithm. Searches by cutting the search space in the array in half until it finds the target.
 
 ## Usage
 Look in the algorithm files and read the docstrings for more information.
